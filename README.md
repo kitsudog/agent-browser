@@ -7,7 +7,7 @@
 - **轻量**：基于 Alpine Linux，镜像体积小巧
 - **安全**：使用非 root 用户（`chrome`）运行
 - **预装**：已内置 Chromium 浏览器，无需额外下载
-- **多平台**：支持 `linux/amd64` 和 `linux/arm64`
+- **平台**：支持 `linux/amd64`
 
 ## 使用方法
 
